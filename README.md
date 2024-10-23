@@ -1,4 +1,9 @@
-## Olá!! Eu sou o Pedro!👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=EB1F6A&width=435&lines=Olá!!+Eu+sou+o+Pedro!+👋)](https://git.io/typing-svg)
+
+<p>
+  Um estudante de Sistemas de informação apaixonado por inovação e tecnologia(e pelo flamengo), em busca de estar sempre em constante evolução, aprendendo algo novo a cada dia!
+</p>
+##
 
 <div align='center'>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" />
@@ -20,3 +25,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedroggramos/pedroggramos/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedroggramos/pedroggramos/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+##
+
+<div align="center"> 
+  <a href="https://instagram.com/pedro.ggr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "pedrogabrielguimaraesramos178@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/pedrogabrielgramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
