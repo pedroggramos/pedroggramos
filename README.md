@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=EB1F6A&width=435&lines=Olá!!+Eu+sou+o+Pedro!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=EB1F6A&width=435&lines=Hello+World!!+Eu+sou+o+Pedro!+👋)](https://git.io/typing-svg)
 
-<p>
-  Um estudante de Sistemas de informação apaixonado por inovação e tecnologia(e pelo flamengo), em busca de estar sempre em constante evolução, aprendendo algo novo a cada dia!
-</p>
+  **_Um estudante de Sistemas de informação apaixonado por inovação e tecnologia(e pelo flamengo), em busca de estar sempre em constante evolução, aprendendo algo novo a cada dia!_**
+
 ##
 
 <div align='center'>
