@@ -5,9 +5,9 @@
 ##
 
 <div align='center'>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pedro github stats" /></a> | <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&theme=dark&hide_border=true" /></a> |-->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Pedro github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&theme=dark&hide_border=true" /></a> |
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" /> -->
-   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&langs_count=16&theme=radical"/> -->
+<!--   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&langs_count=16&theme=radical"/> -->
 </div>
 
 <div style="display: inline_block" align="center"><br>
