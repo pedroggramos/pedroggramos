@@ -5,7 +5,7 @@
 ##
 
 <div align='center'>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&theme=dark&hide_border=true" /></a> |
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&theme=dark&hide_border=true" /></a> |
 <!--   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroggramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" /> -->
 <!--   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroggramos&layout=compact&langs_count=16&theme=radical"/> -->
 </div>
